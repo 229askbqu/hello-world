@@ -1,2 +1,3 @@
 # hello-world
-testing purpose
+# testing purpose
+print('hello world')
